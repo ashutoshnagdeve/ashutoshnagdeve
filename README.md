@@ -1,8 +1,8 @@
-•	👋 Hi, I’m Ashutosh and I am a working on data engineering skills like ETL and cloud technologies like AWS, Azure.
+•	👋 Hi, I’m Ashutosh and I am a working on data engineering like real time streaming using cloud technologies like AWS, Azure.
 
 •	I fall in love😍 with data in 2021 ever since I am flowing🌊 in the ocean of data love.
 
-•	I am evolving💪 day by day and getting to know the data🧐.
+•	I am evolving💪 day by day and getting to know the data manipulation tools🧐.
 
 • Tech skills right now - Python 3, MySQL, Pyspark, Tableau, Data Extraction, Machine Learning Basics.
 
