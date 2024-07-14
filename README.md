@@ -6,6 +6,6 @@
 
 • Tech skills right now - Python 3, MySQL, Pyspark, Tableau, Data Extraction, Machine Learning Basics.
 
-•	I want to be "The GOAT🤩 in the field of Data Science and AI" someday..
+•	I want to be "GOAT🤩 in the field of Data Science and AI" someday..
 
 ![image](https://github.com/ashutoshnagdeve/ashutoshnagdeve/assets/144604783/f7335c9e-890e-43db-96ec-c2a6d9be1f5d)
